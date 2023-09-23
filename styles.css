@@ -1,0 +1,44 @@
+body{
+    background-color: beige;   
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+h1{
+    color: rgb(81, 107, 36);
+    text-align: center;
+}
+.image1{
+    display: block;
+    border-radius: 75%;
+    margin-left: auto;
+    margin-right: auto;  
+    height: 600px;
+    width: 800px;
+}
+button{
+    display: block;
+    margin-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(218, 165, 32, 0.685);
+    border-radius:25px;
+    cursor:pointer;
+}
+h2{
+    text-align: center;
+}
+.image2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    height: 400px;
+    width: 500px
+}
+.image3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    height: 800px;
+    width: 400px;   
+}
